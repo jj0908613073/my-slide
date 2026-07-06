@@ -1,4 +1,13 @@
 {
-  "folders": [],
+  "folders": [
+    {
+      "id": "f-d92a61f5",
+      "name": "ai weekly meeting",
+      "icon": {
+        "type": "color",
+        "value": "#c0392b"
+      }
+    }
+  ],
   "assignments": {}
 }
